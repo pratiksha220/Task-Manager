@@ -21,7 +21,7 @@ This project demonstrates the use of **Dynamic Data Structures** and **Memory Ma
 - **IDE/Compiler:** VS Code with C extension  
 
 ---
-##📌 Future Enhancements
+## 📌 Future Enhancements
 - Add file handling to store tasks permanently
 - Implement priority levels and sorting
 - Add a deadline feature for tasks
